@@ -1,6 +1,6 @@
-# 🚀 Hey There! I'm Gopi
-
 <div align="center">
+
+# 🚀 Hey There! I'm Gopi
 
 ### Full-Stack Developer | AI/ML Innovator | 3D Web Technologist
 
